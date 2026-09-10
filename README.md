@@ -62,7 +62,7 @@ Technological Interests: Backend infrastructure, Distributed Systems, Cloud Comp
 
 ---
 
-## Projects
+## Key Projects
 
 ### Distributed Rate Limiter
 `Node.js` `Express` `Redis` `Lua`
